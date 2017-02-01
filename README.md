@@ -1,7 +1,7 @@
 # firebase.ios
 
 FirebaseのAuth、Database、StorageなどをXamarin.iOSから扱うためのNative Binding Libraryをビルドするためのプロジェクトを置いていきます。
-本当はnugetパッケージで提供したかったのですが、Googleから断られました。。
+本当はnugetパッケージで提供したかったのですが、Googleから断られました。。近日公開されることを期待しています。
 
 ## 使い方
 
